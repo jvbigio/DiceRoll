@@ -28,10 +28,6 @@ body {
   opacity: 0.8;
 }
 
-/* .dice__result {
-  animation: rotation 2s infinite linear;
-}  */
-
 .flip {
   animation: 0.3s rollDice;
 }
